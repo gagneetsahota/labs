@@ -9,9 +9,12 @@ Cyber Security:<br>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cyb%20351-PfSense%20Lab.docx">PfSense Lab</a></li>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Squil%20Intro%20Lab.docx">Using Sguil Lab</a></li>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cyber%20Security%20visit%202-19-20.docx">Sample documentation from a client who asked for her bussiness network to be scanned for any malware. </a></li>
+ <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cyb%20352-UnTangle%20Lab.docx">Using UnTangle Lab</a></li>
+   <li><a href="https://github.com/gagneetsahota/labs/blob/master/CYB301_Basic%20Metasploit.docx">Using Metasploit Lab</a></li>
 </ul>
 Cloud <br>
 <ul>
   <li><a href="https://github.com/gagneetsahota/labs/blob/master/CYB%20301_Cloud%20Security.docx">Cloud security research</a></li>
+  <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cloud_Computing_Paper.docx">Cloud computing paper</a></li>
   </ul>
 Other various IT concepts:
