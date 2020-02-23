@@ -1,5 +1,5 @@
 # Gagneet Sahota Labs/Projects
-A collection of my cyber security/ IT home labs and projects. Include labs based on topics of:
+A collection of my cyber security/ IT home labs and projects. The following labs are in Microsoft Word format, some have included screenshots when appropriate. Include labs based on topics of:<br>
 Cyber Security:<br>
 <ul>
   <li><a href="https://github.com/gagneetsahota/labs/blob/master/Risk_mangement_Sahota.docx">Risk Management Plan using HIPPA standards</a></li>
