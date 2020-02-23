@@ -7,9 +7,7 @@ Cyber Security:<br>
   <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cyb-302-Packet%20Replay%20Lab.docx">Packet Replay Lab</a></li>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Week%202-Cyb%20352-Installation%20of%20pfSense.docx">Installing PfSense Lab</a></li>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cyb%20351-PfSense%20Lab.docx">PfSense Lab</a></li>
-</ul>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Squil%20Intro%20Lab.docx">Using Sguil Lab</a></li>
-</ul>
 <li><a href="https://github.com/gagneetsahota/labs/blob/master/Cyber%20Security%20visit%202-19-20.docx">Sample documentation from a client who asked for her bussiness network to be scanned for any malware. </a></li>
 </ul>
 Cloud <br>
